@@ -1,4 +1,3 @@
-This line we can use for testing
 Updating this line.
 This file contains the deployment script...
 
